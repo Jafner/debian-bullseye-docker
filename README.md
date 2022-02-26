@@ -1,2 +1,3 @@
 # debian-bullseye-docker
-Debian Bullseye with Docker installed
+
+A homebrew Debian image with Docker installed
